@@ -52,6 +52,8 @@ store.subscribe((actions, state) => {
   console.log(actions, '==actions');
   console.log(state, '==state');
 });
+
+console.log('test worktree 123');
 new Vue({
   i18n,
   router,
