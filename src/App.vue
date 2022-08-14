@@ -20,6 +20,7 @@
       <router-link to="/about">About</router-link>
       <router-link to="/editor">富文本编辑器</router-link>
       <router-link to="/form">form-creator</router-link>
+      <router-link to="/flow">LogicFlow</router-link>
     </nav>
     <router-view />
   </div>

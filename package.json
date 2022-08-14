@@ -9,6 +9,8 @@
   "dependencies": {
     "@form-create/designer": "^1.0.7",
     "@form-create/element-ui": "^2.5.25",
+    "@logicflow/core": "1.1.24",
+    "@logicflow/extension": "1.1.24",
     "@wangeditor/editor": "^5.1.14",
     "@wangeditor/editor-for-vue": "^1.0.2",
     "axios": "^0.27.2",
